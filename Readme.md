@@ -1,2 +1,4 @@
-##StarteSe
-	> Primeiro Html com StartSe 
+## StarteSe
+ 
+ > Primeiro Html com StartSe
+ 
